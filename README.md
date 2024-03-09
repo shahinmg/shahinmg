@@ -1,5 +1,23 @@
 ### Hi, I'm Michael 👋
 
+## About me:
+- 👩‍💻 Geology Ph.D. Candidate at the University of Kansas
+- 🧊 Glaciologist + 💻 Data Scientist
+
+## My Science 
+__Shahin, M.G.__, S. Shankar, L. A. Stearns, K. Hughes, C.J. van der Veen, F. Straneo. Mélange as a heat sink: Mapping sikkusak (ice mélange) ice-ocean heat transfer around the Greenland Ice Sheet. *In prep*.
+
+__Shahin M.G.__, L.A. Stearns, C.J. van der Veen, D.C. Finnegan, A.L. LeWinter, H. Butler, S. O'Neel. Calving at Helheim Glacier dominated by large flexure events. *In prep. for Journal of Geophysical Research: Earth Surface*.
+
+Meng, Y., C.Y., Lai, R. Culberg, __M.G. Shahin__,  L.A. Stearns, J. Burton, K. Nissanka. Seasonal Changes of M\'elange Thickness Coincide With
+Greenland Calving Dynamics. *Under Review at Nature Communication*.
+
+Fahrner, D., G. Catania, __M.G. Shahin__, D.D. Hansen, K. Löffler, J. Abermann. AAdvances in monitoring glaciological processes in Kalallit Nunaat (Greenland) over the past decades *Accepted at PLOS Climate*.
+
+Melton, S. M., R.B. Alley, S. Anandakrishnan, B.R. Parizek, __M.G. Shahin__, L.A Stearns, A. L. LeWinter,  D. C. Finnegan. 2022. Meltwater drainage and iceberg calving observed in high-spatiotemporal resolution at Helheim Glacier, Greenland. **Journal of Glaciology**. [https://doi.org/10.1017/jog.2021.141](https://doi.org/10.1017/jog.2021.141)
+
+
+
 <!--
 **shahinmg/shahinmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +32,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## About me:
-- 👩‍💻 Geology Ph.D. Candidate at the University of Kansas
-- 🧊 Glaciologist + Data Scientist 💻
