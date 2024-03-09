@@ -4,6 +4,12 @@
 - 👩‍💻 Geology Ph.D. Candidate at the University of Kansas
 - 🧊 Glaciologist + 💻 Data Scientist
 
+I'm a Ph.D. candidate at the University of Kansas interested in sea-level rise, iceberg calving,  ice-ocean interactions, and numerical modeling. My current research focuses on developing applications terrestrial laser scanners for glaciological purposes (point set regestration problems), a case study of Helheim Glacier calving dynamics using terrestrial laser scanners, and how ice melange (a mixture of sea ice and icebergs) impacts submarine melting of glaciers across the Greenland Ice Sheet.
+
+## I'm Currently 
+I'm integrating 
+
+
 ## My Science 
 __Shahin, M.G.__, S. Shankar, L. A. Stearns, K. Hughes, C.J. van der Veen, F. Straneo. Mélange as a heat sink: Mapping sikkusak (ice mélange) ice-ocean heat transfer around the Greenland Ice Sheet. *In prep*.
 
