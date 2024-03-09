@@ -8,7 +8,7 @@ I'm a Ph.D. candidate at the University of Kansas interested in sea-level rise, 
 
 ## I'm Currently 
 - Integrating the Segment Anything Model (SAM) with an iceberg melt model in python
-- Finishing my dissertation
+- Writing my dissertation
 - Creating Zarr datacubes for terrestrial laser scanner data
 - Developing open-source tutorials using the geospatial python stack
 
