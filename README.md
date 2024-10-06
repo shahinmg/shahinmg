@@ -4,7 +4,7 @@
 - 👨‍💻 Geology Ph.D. Candidate at the University of Kansas
 - 🧊 Glaciologist + 💻 Data Scientist
 
-I'm a Ph.D. candidate at the University of Kansas interested in sea-level rise, iceberg calving,  ice-ocean interactions, and numerical modeling. My current research focuses on developing applications for terrestrial laser scanners for glaciological purposes [point set registration problems](https://en.wikipedia.org/wiki/Point-set_registration), a case study of Helheim Glacier calving dynamics using terrestrial laser scanners, and how ice melange (a mixture of sea ice and icebergs) impacts submarine melting of glaciers draining the Greenland Ice Sheet. I'm passionate about open source tools for scientific research and helping others navigate the pangeo stack.
+I'm a Ph.D. candidate at the University of Kansas interested in sea-level rise, iceberg calving,  ice-ocean interactions, and numerical modeling. My current research focuses on developing applications for terrestrial laser scanners for glaciological purposes (e.g. [point set registration problems](https://en.wikipedia.org/wiki/Point-set_registration)), a case study of Helheim Glacier calving dynamics using terrestrial laser scanners, and how ice melange (a mixture of sea ice and icebergs) impacts submarine melting of glaciers draining the Greenland Ice Sheet. I'm passionate about open source tools for scientific research and helping others navigate the pangeo stack.
 
 ## I'm Currently 
 - Integrating the [Segment Anything Model (SAM)](https://github.com/facebookresearch/segment-anything) with an iceberg melt model in python
