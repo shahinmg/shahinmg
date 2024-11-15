@@ -21,7 +21,7 @@ I'm a Ph.D. candidate at the University of Kansas interested in sea-level rise, 
 ## My Science 
 __Shahin, M.G.__, K. Hughes, L. A. Stearns, A. Roth, F. Straneo, C.J. van der Veen. Can a glacier protect itself? Viewing sikkusak (ice mélange) and large icebergs as a heat sink. *In prep*.
 
-__Shahin M.G.__, L.A. Stearns, C.J. van der Veen, D.C. Finnegan, A.L. LeWinter, H. Butler, S. O'Neel. Calving Mechanisms Inferred from Observations of Surface Depressions at Helheim Glacier, Greenland. *Submitted to Journal of Geophysical Research: Earth Surface*.
+__Shahin M.G.__, L.A. Stearns, C.J. van der Veen, D.C. Finnegan, A.L. LeWinter, S.F. Child, S. O'Neel, H. Butler. Calving Mechanisms Inferred from Observations of Surface Depressions at Helheim Glacier, Greenland. *Submitted to Journal of Geophysical Research: Earth Surface*.
 
 Meng, Y., C.Y., Lai, R. Culberg, __M.G. Shahin__,  L.A. Stearns, J. Burton, K. Nissanka. Seasonal Changes of M\'elange Thickness Coincide With
 Greenland Calving Dynamics. *Under Review at Nature Communication*.
