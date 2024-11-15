@@ -23,6 +23,9 @@ __Shahin, M.G.__, K. Hughes, L. A. Stearns, A. Roth, F. Straneo, C.J. van der Ve
 
 __Shahin M.G.__, L.A. Stearns, C.J. van der Veen, D.C. Finnegan, A.L. LeWinter, S.F. Child, S. O'Neel, H. Butler. Calving Mechanisms Inferred from Observations of Surface Depressions at Helheim Glacier, Greenland. *Submitted to Journal of Geophysical Research: Earth Surface*.
 
+Harcourt, W. D., __M.G. Shahin__, L.A. Stearns, and S. Shankar: Structural weaknesses in ice mélange revealed by high
+resolution ICEYE SAR imagery. *Submitted to the Journal of Glaciology*.
+
 Meng, Y., C.Y., Lai, R. Culberg, __M.G. Shahin__,  L.A. Stearns, J. Burton, K. Nissanka. Seasonal Changes of M\'elange Thickness Coincide With
 Greenland Calving Dynamics. *Under Review at Nature Communication*.
 
