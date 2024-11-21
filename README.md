@@ -27,7 +27,7 @@ Harcourt, W. D., __M.G. Shahin__, L.A. Stearns, and S. Shankar: Structural weakn
 resolution ICEYE SAR imagery. *Submitted to the Journal of Glaciology*.
 
 Meng, Y., C.Y., Lai, R. Culberg, __M.G. Shahin__,  L.A. Stearns, J. Burton, K. Nissanka. Seasonal Changes of M\'elange Thickness Coincide With
-Greenland Calving Dynamics. *Under Review at Nature Communication*.
+Greenland Calving Dynamics. *Accepted at Nature Communication*.
 
 Fahrner, D., G. Catania, __M.G. Shahin__, D.D. Hansen, K. Löffler, J. Abermann. AAdvances in monitoring glaciological processes in Kalallit Nunaat (Greenland) over the past decades *Accepted at PLOS Climate*.
 
