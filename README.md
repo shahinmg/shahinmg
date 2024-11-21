@@ -31,7 +31,7 @@ Greenland Calving Dynamics. *Accepted at Nature Communication*.
 
 Fahrner, D., G. Catania, __M.G. Shahin__, D.D. Hansen, K. Löffler, J. Abermann. AAdvances in monitoring glaciological processes in Kalallit Nunaat (Greenland) over the past decades *Accepted at PLOS Climate*.
 
-Melton, S. M., R.B. Alley, S. Anandakrishnan, B.R. Parizek, __M.G. Shahin__, L.A Stearns, A. L. LeWinter,  D. C. Finnegan. 2022. Meltwater drainage and iceberg calving observed in high-spatiotemporal resolution at Helheim Glacier, Greenland. **Journal of Glaciology**. [https://doi.org/10.1017/jog.2021.141](https://doi.org/10.1017/jog.2021.141)
+Melton, S. M., R.B. Alley, S. Anandakrishnan, B.R. Parizek, __M.G. Shahin__, L.A Stearns, A. L. LeWinter,  D. C. Finnegan. 2022. Meltwater drainage and iceberg calving observed in high-spatiotemporal resolution at Helheim Glacier, Greenland. Journal of Glaciology. [https://doi.org/10.1017/jog.2021.141](https://doi.org/10.1017/jog.2021.141)
 
 
 
