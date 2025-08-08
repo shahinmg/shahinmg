@@ -14,7 +14,7 @@ I'm a postdoctoral researcher at the University of Pennsylvania, and I am intere
 
 
 ## My Science 
-__Shahin, M.G.__, K. Hughes, L. A. Stearns, A. Roth, F. Straneo, C.J. van der Veen. Can a glacier protect itself? Viewing sikkusak (ice mélange) and large icebergs as a heat sink. *In prep*.
+__Shahin, M.G.__, K. Hughes, L. A. Stearns, A. Roth, F. Straneo, C.J. van der Veen. Can a glacier protect itself? Viewing sikkusak (ice mélange) and deep-keeled as a heat sink. *In prep for Science Advances*.
 
 __Shahin M.G.__, L.A. Stearns, C.J. van der Veen, D.C. Finnegan, A.L. LeWinter, S.F. Child, S. O'Neel, H. Butler. Calving Mechanisms Inferred from Observations of Surface Depressions at Helheim Glacier, Greenland. *Under review at the Journal of Geophysical Research: Earth Surface*.
 
