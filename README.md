@@ -8,18 +8,19 @@ I'm a postdoctoral researcher at the University of Pennsylvania, and I am intere
 
 
 ## Future Ambitions
-- Write a jupyter based glaciology course textbook
-- Create geospatial python workshops
-- Visit Lebanon 🇱🇧
+- Write a Jupyter-based glaciology course textbook
+- Create geospatial Python workshops
 
 
 ## My Science 
-__Shahin, M.G.__, K. Hughes, L. A. Stearns, A. Roth, F. Straneo, C.J. van der Veen. Can a glacier protect itself? Viewing sikkusak (ice mélange) and deep-keeled as a heat sink. *In prep for Science Advances*.
+__Shahin, M.G.__, K. Hughes, L. A. Stearns, C.J. van der Veen, A. Roth, F. Straneo. Can a glacier protect itself? Viewing sikkusak (ice mélange) and deep-keeled icebergs as a heat sink. \textit{Submitted to Science Advances}
 
-__Shahin M.G.__, L.A. Stearns, C.J. van der Veen, D.C. Finnegan, A.L. LeWinter, S.F. Child, S. O'Neel, H. Butler. Calving Mechanisms Inferred from Observations of Surface Depressions at Helheim Glacier, Greenland. *Under review at the Journal of Geophysical Research: Earth Surface*.
+Shionalyn, K., G. Catania, D. Trugman, __M.G. Shahin__, D. Felikson, L.A. Stearns. {Outlet Glacier Seasonal Terminus Prediction Using Interpretable Machine Learning. \textit{In revision at The Cryosphere}. [https://doi.org/10.5194/egusphere-2025-3483](https://doi.org/10.5194/egusphere-2025-3483)
 
-Harcourt, W. D., __M.G. Shahin__, L.A. Stearns, and S. Shankar: Structural weaknesses in ice mélange revealed by high
-resolution ICEYE SAR imagery. *Accepted at the Journal of Glaciology*.
+__Shahin, M.G.__, L.A. Stearns, C.J. van der Veen, D.C. Finnegan, A.L. LeWinter, S.F. Child, S. O'Neel, H. Butler. Calving Mechanisms Inferred from Observations of Surface Depressions at Helheim Glacier, Greenland. 2025. \textit{Journal of Geophysical Research: Earth Surface}, 130, e2024JF008059. [https://doi.org/10.1029/2024JF008059](https://doi.org/10.1029/2024JF008059)
+
+Harcourt, W. D.,  __M.G. Shahin__, L.A. Stearns, and S. Shankar: Structural weaknesses in ice mélange revealed by high
+resolution ICEYE SAR imagery. 2025. \textit{Journal of Glaciology}. [https://doi:10.1017/jog.2025.10085](https://doi:10.1017/jog.2025.10085)
 
 Meng, Y., C.Y., Lai, R. Culberg, __M.G. Shahin__,  L.A. Stearns, J. Burton, K. Nissanka. Seasonal Changes of M\'elange Thickness Coincide With
 Greenland Calving Dynamics. *Accepted at Nature Communications*.
