@@ -15,7 +15,7 @@ I'm a postdoctoral researcher at the University of Pennsylvania, and I am intere
 ## My Science 
 __Shahin, M.G.__, K. Hughes, L. A. Stearns, C.J. van der Veen, A. Roth, F. Straneo. Can a glacier protect itself? Viewing sikkusak (ice mélange) and deep-keeled icebergs as a heat sink. *Submitted to Science Advances*
 
-Shionalyn, K., G. Catania, D. Trugman, __M.G. Shahin__, D. Felikson, L.A. Stearns. {Outlet Glacier Seasonal Terminus Prediction Using Interpretable Machine Learning. *In revision at The Cryosphere*. [https://doi.org/10.5194/egusphere-2025-3483](https://doi.org/10.5194/egusphere-2025-3483)
+Shionalyn, K., G. Catania, D. Trugman, __M.G. Shahin__, D. Felikson, L.A. Stearns. Outlet Glacier Seasonal Terminus Prediction Using Interpretable Machine Learning. *In revision at The Cryosphere*. [https://doi.org/10.5194/egusphere-2025-3483](https://doi.org/10.5194/egusphere-2025-3483)
 
 __Shahin, M.G.__, L.A. Stearns, C.J. van der Veen, D.C. Finnegan, A.L. LeWinter, S.F. Child, S. O'Neel, H. Butler. Calving Mechanisms Inferred from Observations of Surface Depressions at Helheim Glacier, Greenland. 2025. *Journal of Geophysical Research: Earth Surface*, 130, e2024JF008059. [https://doi.org/10.1029/2024JF008059](https://doi.org/10.1029/2024JF008059)
 
