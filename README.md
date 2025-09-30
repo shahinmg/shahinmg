@@ -13,7 +13,7 @@ I'm a postdoctoral researcher at the University of Pennsylvania, and I am intere
 
 
 ## My Science 
-__Shahin, M.G.__, K. Hughes, L. A. Stearns, C.J. van der Veen, A. Roth, F. Straneo. Can a glacier protect itself? Viewing sikkusak (ice mélange) and deep-keeled icebergs as a heat sink. *Submitted to Science Advances*
+__Shahin, M.G.__, K. Hughes, L. A. Stearns, C.J. van der Veen, A. Roth, F. Straneo. Can a glacier protect itself? Viewing sikkusak (ice mélange) and deep-keeled icebergs as a heat sink. *To be submitted in October 2025 to Science Advances*
 
 Shionalyn, K., G. Catania, D. Trugman, __M.G. Shahin__, D. Felikson, L.A. Stearns. Outlet Glacier Seasonal Terminus Prediction Using Interpretable Machine Learning. *In revision at The Cryosphere*. [https://doi.org/10.5194/egusphere-2025-3483](https://doi.org/10.5194/egusphere-2025-3483)
 
